@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/calculate-tax/calculate-tax.iml" filepath="$PROJECT_DIR$/calculate-tax/calculate-tax.iml" />
       <module fileurl="file://$PROJECT_DIR$/software-architecture-experiment-4.iml" filepath="$PROJECT_DIR$/software-architecture-experiment-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.iml" filepath="$PROJECT_DIR$/weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-forecast.iml" filepath="$PROJECT_DIR$/weather-forecast.iml" />
     </modules>
   </component>
 </project>
